@@ -1,0 +1,4 @@
+set p lll
+set y uuu
+help
+print y

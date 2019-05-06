@@ -1,0 +1,2 @@
+help 
+exec a.txt b.txt c.txt

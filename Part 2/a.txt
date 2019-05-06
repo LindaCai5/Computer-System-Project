@@ -1,0 +1,6 @@
+set lll pppppp
+set w p
+print w
+help
+print w
+help
