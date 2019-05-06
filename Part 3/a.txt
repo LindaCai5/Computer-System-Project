@@ -1,0 +1,24 @@
+set lll pppppp
+set w p
+print w
+help
+print lll
+print lll
+print w
+print w
+set o p
+print o
+help
+help
+set aaa l
+set bbb l
+set ccc l
+set ddd l
+print aaa
+print aaa
+print aaa
+print aaa
+print bbb
+print bbb
+print bbb
+print bbb

@@ -1,0 +1,24 @@
+set q p
+set y ll
+set u o
+print y
+help
+set b c
+set z y
+set t t
+print b
+print z
+print t
+print t
+set zzz p
+set kkk p
+set qqq p
+set ppp p
+print ppp
+print ppp
+print ppp
+print ppp
+print kkk
+print kkk
+print kkk
+print kkk
